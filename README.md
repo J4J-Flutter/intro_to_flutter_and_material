@@ -1,5 +1,10 @@
 # intro_to_flutter_and_material
 
+[![מבוא ל- Flutter | מאור מאיר חג׳אג׳
+](https://img.youtube.com/vi/wpUOuR8QYHo/0.jpg)](https://www.youtube.com/watch?v=wpUOuR8QYHo "מבוא ל- Flutter | מאור מאיר חג׳אג׳
+")
+
+
 ## Links we talked about
 
 - [Material 3](https://m3.material.io/components)
